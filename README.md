@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis
-For sentiment analysis of twitter tweets about "demonetization in India". The program tells whether a tweet is positive or negative. </br> Saves the output in a csv file called "demonisation_analysis.csv".
+For sentiment analysis of twitter tweets about "demonetization in India" using Python. The program tells whether a tweet is positive or negative. </br> Saves the output in a csv file called "demonisation_analysis.csv".
 
 # Dependencies required:
 1. Tweepy (Twitter python library)
